@@ -195,9 +195,9 @@
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
 			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5925, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{5976, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6026, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 11269}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {2371, 4459}}";
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 4329}}";
 			sepNavSelRange = "{4756, 0}";
-			sepNavVisRange = "{3965, 1948}";
+			sepNavVisRange = "{3965, 1760}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -257,20 +257,21 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 295148442;
-			PBXWorkspaceStateSaveDate = 295148442;
+			PBXPerProjectTemplateStateSaveDate = 295162931;
+			PBXWorkspaceStateSaveDate = 295162931;
 		};
 		perUserProjectItems = {
-			351E1A6A1197D0F300BC95E4 /* PBXTextBookmark */ = 351E1A6A1197D0F300BC95E4 /* PBXTextBookmark */;
-			351E1A6B1197D0F300BC95E4 /* PBXTextBookmark */ = 351E1A6B1197D0F300BC95E4 /* PBXTextBookmark */;
-			351E1A6C1197D0F300BC95E4 /* PBXTextBookmark */ = 351E1A6C1197D0F300BC95E4 /* PBXTextBookmark */;
-			351E1A6D1197D0F300BC95E4 /* PBXTextBookmark */ = 351E1A6D1197D0F300BC95E4 /* PBXTextBookmark */;
-			351E1A6E1197D0F300BC95E4 /* PBXTextBookmark */ = 351E1A6E1197D0F300BC95E4 /* PBXTextBookmark */;
-			351EF20611966728009DCC9A /* PBXTextBookmark */ = 351EF20611966728009DCC9A /* PBXTextBookmark */;
-			351EF20711966728009DCC9A /* PBXTextBookmark */ = 351EF20711966728009DCC9A /* PBXTextBookmark */;
-			351EF20F1196684E009DCC9A /* XDModelBookmark */ = 351EF20F1196684E009DCC9A /* XDModelBookmark */;
-			351EF21F11966B01009DCC9A /* PBXTextBookmark */ = 351EF21F11966B01009DCC9A /* PBXTextBookmark */;
-			351EF25A119670B5009DCC9A /* PBXTextBookmark */ = 351EF25A119670B5009DCC9A /* PBXTextBookmark */;
+			351E1A6A1197D0F300BC95E4 = 351E1A6A1197D0F300BC95E4 /* PBXTextBookmark */;
+			351E1A6B1197D0F300BC95E4 = 351E1A6B1197D0F300BC95E4 /* PBXTextBookmark */;
+			351E1A6C1197D0F300BC95E4 = 351E1A6C1197D0F300BC95E4 /* PBXTextBookmark */;
+			351E1A6D1197D0F300BC95E4 = 351E1A6D1197D0F300BC95E4 /* PBXTextBookmark */;
+			351E1A6E1197D0F300BC95E4 = 351E1A6E1197D0F300BC95E4 /* PBXTextBookmark */;
+			351EF20611966728009DCC9A = 351EF20611966728009DCC9A /* PBXTextBookmark */;
+			351EF20711966728009DCC9A = 351EF20711966728009DCC9A /* PBXTextBookmark */;
+			351EF20F1196684E009DCC9A = 351EF20F1196684E009DCC9A /* XDModelBookmark */;
+			351EF21F11966B01009DCC9A = 351EF21F11966B01009DCC9A /* PBXTextBookmark */;
+			351EF25A119670B5009DCC9A = 351EF25A119670B5009DCC9A /* PBXTextBookmark */;
+			3520A5001197D440003799F7 /* PBXTextBookmark */ = 3520A5001197D440003799F7 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 351EF1F611966458009DCC9A /* Source Control */;
 		userBuildSettings = {
@@ -433,5 +434,15 @@
 		rType = 0;
 		vrLen = 1765;
 		vrLoc = 2191;
+	};
+	3520A5001197D440003799F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 156";
+		rLen = 0;
+		rLoc = 4756;
+		rType = 0;
+		vrLen = 1760;
+		vrLoc = 3965;
 	};
 }
