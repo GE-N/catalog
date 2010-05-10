@@ -266,7 +266,6 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
-								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -274,7 +273,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
+									<integer>8</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -317,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>RootViewController.m</string>
+								<string>CatalogProductVC.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,22 +324,24 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>RootViewController.m</string>
+										<string>CatalogProductVC.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3520A5001197D440003799F7</string>
+										<string>3520A59811980DED003799F7</string>
 										<key>history</key>
 										<array>
-											<string>351EF20611966728009DCC9A</string>
 											<string>351EF20711966728009DCC9A</string>
 											<string>351EF20F1196684E009DCC9A</string>
-											<string>351EF21F11966B01009DCC9A</string>
-											<string>351E1A6A1197D0F300BC95E4</string>
-											<string>351E1A6B1197D0F300BC95E4</string>
-											<string>351E1A6C1197D0F300BC95E4</string>
-											<string>351E1A6D1197D0F300BC95E4</string>
-											<string>351E1A6E1197D0F300BC95E4</string>
+											<string>3520A5221197F6B0003799F7</string>
+											<string>3520A5311197FD96003799F7</string>
+											<string>3520A5351197FD96003799F7</string>
+											<string>3520A57B11980C0C003799F7</string>
+											<string>3520A59311980DED003799F7</string>
+											<string>3520A59411980DED003799F7</string>
+											<string>3520A59511980DED003799F7</string>
+											<string>3520A59611980DED003799F7</string>
+											<string>3520A59711980DED003799F7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -876,6 +877,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>

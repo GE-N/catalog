@@ -8,6 +8,7 @@
 
 #import "RootViewController.h"
 #import "ManageCategoriesVC.h"
+#import "CatalogProductVC.h"
 
 
 @interface RootViewController ()
@@ -29,7 +30,7 @@
 	self.title = @"Catalogs";
 	
     // Set up the edit and add buttons.
-    self.navigationItem.leftBarButtonItem = self.editButtonItem;
+    // self.navigationItem.leftBarButtonItem = self.editButtonItem;
     
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject)];
     self.navigationItem.rightBarButtonItem = addButton;
@@ -189,6 +190,13 @@
      [self.navigationController pushViewController:detailViewController animated:YES];
      [detailViewController release];
      */
+	
+    CatalogProductVC *catalogProduct = [[CatalogProductVC alloc] initWithNibName:@"CatalogProductVC"
+																		   bundle:nil];
+	catalogProduct.catalogName = @"xxx";
+	
+	[self.navigationController pushViewController:catalogProduct animated:YES];
+	
 }
 
 
